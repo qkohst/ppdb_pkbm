@@ -29,8 +29,8 @@
   <!-- responsive style -->
   <link href="/template/css/responsive.css" rel="stylesheet" />
 
-  <!-- Font Awesome Icons -->
-  <link rel="stylesheet" href="/template/fontawesome-free/css/all.min.css">
+ <!-- Font Awesome Icons -->
+ <link rel="stylesheet" href="/template/fontawesome-free/css/all.min.css">
 
 
   <link rel="stylesheet" href="/template/css/css-circular-prog-bar.css">
@@ -39,7 +39,7 @@
 </head>
 
 <body>
-  <div class="top_container">
+  <div class="top_container sub_pages">
     <!-- header section strats -->
     <header class="header_section">
       <div class="container">
@@ -75,13 +75,13 @@
 
         </nav>
       </div>
+      @yield('judul')
     </header>
-    @yield('header')
+  
   </div>
   <!-- end header section -->
 
     @yield('content')
-
 
   <!-- footer section -->
   <section class="container-fluid footer_section">
