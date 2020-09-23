@@ -1,3 +1,17 @@
+Sistem ini dibuat dengan framework laravel dan database MySQL, Untuk fitur lengkapnya bisa lihat pada gambar dibawah ini.
+
+Halaman Utama 
+![1](https://user-images.githubusercontent.com/57386598/94005803-04436180-fdc9-11ea-83b3-41f95e1d6fb5.png)
+
+Halaman Alur Pendaftaran 
+![2](https://user-images.githubusercontent.com/57386598/94005814-0c030600-fdc9-11ea-922d-ca4a413871c1.png)
+
+Halaman Pendaftaran 
+![3](https://user-images.githubusercontent.com/57386598/94005824-102f2380-fdc9-11ea-9b2b-f99f872db2c7.png)
+
+Halaman Rekap Pendaftar
+![4](https://user-images.githubusercontent.com/57386598/94005831-13c2aa80-fdc9-11ea-9e2e-43262a12aa67.png)
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
